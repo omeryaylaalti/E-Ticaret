@@ -1,0 +1,25 @@
+.easyPieChart {
+    position: relative;
+    text-align: center;
+}
+
+.easyPieChart canvas {
+    position: absolute;
+	left: -25px;
+	right: -10px;
+	top: -25px;
+	bottom: -10px;
+}
+.knob-inner .percentage {
+	text-align:center;
+	display:block;
+    line-height: 80px !important;
+}
+.knob-inner .percentage span{
+	text-align:center;
+	display:inline-block;
+	margin-left:-40px;
+	margin-top:-10px;
+	font-size:24px;
+	font-family: 'RobotoBoldCondensed',Arial,san-serif;
+}
